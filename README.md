@@ -19,8 +19,8 @@ This project is a SQL-based database system for managing student records. It inc
 4. Create the database and run the SQL script:
    ```sql
    SOURCE path_to_your_file/student_records.sql;
-
-   ERD (Entity-Relationship Diagram)
+   
+    ![ERD Diagram](./student_records_erd.png)
 
 This diagram shows the structure and relationships between tables in the database.
 
